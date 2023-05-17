@@ -1,4 +1,4 @@
-## :computer:Joel's STEM Career Roadmap:car:
+## :computer:Cyber Security Analyst Road Map:car:
 
 ![2-Year Roadmap](cybah1.png)
 
@@ -96,4 +96,4 @@ By using the STAR method, you can provide structured and detailed responses that
  - [Canva](https://www.canva.com/resume-templates/): Canva is a design platform that offers a variety of free resume templates that are easy to customize with drag-and-drop functionality. It also offers a library of graphics and icons that can be used to enhance your resume's visual appeal.
 
 
-### :milky_way:Remember, this 2-year roadmap is a general guide, and it's important to adapt and remain flexible based on personal interests and opportunities that arise along the way :satellite:
+### :milky_way:Remember, this Road Map is a general guide for entry level job seekers, and it's important to adapt and remain flexible based on personal interests and opportunities that arise along the way :satellite:
